@@ -1,0 +1,82 @@
+	html, body {
+		background-color: black;
+	}
+	.main {
+		background-color: white;
+		width: auto;
+		height: auto;
+		align-content: center;
+	}
+	.img-edit {
+		width: 20%;
+		height: 50px;
+	}
+	.logo-edit {
+		width: 10%;
+		height: 50px;
+	}
+	.team {
+		width: auto;
+		height: auto;
+	}
+	.img-responsive {
+		width: 100%;
+		height: 300px;
+	}
+	.text {
+		background-color: black;
+	}
+	.font {
+		font-family: italic;
+		background-color: white;
+	}
+	.card {
+		width: auto;
+		padding: 10px;
+		background-color: white;
+	}
+	.card1 {
+		width: 200px;
+		height: 200px;
+	}
+	.picture1 {
+		width: 200px;
+		height: 200px;
+	}
+	.info1 {
+		font-size: 10px;
+	}
+	.my-card-box {
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		padding: 8px;
+		background-color: white;
+	}
+	.my-card-box-content {
+		max-width: 200px;
+		box-shadow: 0px 0px 50px #CCC;
+		margin: 6px;
+		margin-bottom: 15px;
+		text-align: center;
+		font-size: 20px;
+	}
+	.my-img-fluid {
+		width: 100%;
+		height: 200px;
+	}
+	.info {
+		display: flex;
+		flex-wrap: wrap;
+		width: auto;
+		padding: 8px;
+		background-color: black;
+	}
+	.info-text {
+		font-size: 22px;
+		color: white;
+	}
+	.text-info {
+		font-size: 22px;
+		color: white;
+	}
